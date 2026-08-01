@@ -1,0 +1,27 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+
+# VS Code
+.vscode/
+
+# Virtual environment
+.virtual_documents/
+
+# Databases
+*.db
+
+# CSV files
+*.csv
+
+# Text files
+*.txt
+
+# Python utility files
+my_utils.py
+students.db-journal
+training db
+# Other folders
+anaconda_projects/
